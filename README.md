@@ -1,4 +1,4 @@
-# GNU_makefile
+# GNU makefile
 
 Make tool to automate the build process by defining different rules and showing progress bar/percentage
 
